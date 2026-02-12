@@ -65,7 +65,7 @@ The skill ships with curated vocabularies for:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/seedance-prompt-skill.git
+git clone https://github.com/songguoxs/seedance-prompt-skill.git
 ```
 
 2. **Copy the skill into your project's `.claude/skills/` directory**

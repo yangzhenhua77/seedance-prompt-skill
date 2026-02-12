@@ -65,7 +65,7 @@ Skill 内置了专业的词汇库：
 1. **克隆仓库**
 
 ```bash
-git clone https://github.com/<your-username>/seedance-prompt-skill.git
+git clone https://github.com/songguoxs/seedance-prompt-skill.git
 ```
 
 2. **将 Skill 文件复制到你项目的 `.claude/skills/` 目录**
