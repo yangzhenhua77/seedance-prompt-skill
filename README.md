@@ -297,7 +297,6 @@ Step 4: You refine → adjust timing, camera, dialogue, effects, or style
 ```
 .
 ├── .claude/
-│   ├── settings.local.json       # Claude Code local permissions
 │   └── skills/
 │       └── seedance/
 │           └── SKILL.md           # The skill definition (core file)

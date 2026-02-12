@@ -299,7 +299,6 @@ Skill 遵循结构化的四步工作流：
 ```
 .
 ├── .claude/
-│   ├── settings.local.json       # Claude Code 本地权限配置
 │   └── skills/
 │       └── seedance/
 │           └── SKILL.md           # Skill 定义文件（核心文件）
