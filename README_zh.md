@@ -81,23 +81,7 @@ mkdir -p .claude/skills/seedance
 cp /path/to/seedance-prompt-skill/.claude/skills/seedance/SKILL.md .claude/skills/seedance/SKILL.md
 ```
 
-3. **配置 Claude Code 权限**
-
-在项目根目录创建或编辑 `.claude/settings.local.json`：
-
-```json
-{
-  "permissions": {
-    "allow": [
-      "WebSearch"
-    ]
-  }
-}
-```
-
-> `WebSearch` 权限为可选但推荐开启 — 允许 Skill 在需要时查询即梦平台的最新动态。
-
-4. **验证安装**
+3. **验证安装**
 
 在项目目录启动 Claude Code：
 

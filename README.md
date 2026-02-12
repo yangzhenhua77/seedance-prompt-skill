@@ -81,23 +81,7 @@ mkdir -p .claude/skills/seedance
 cp /path/to/seedance-prompt-skill/.claude/skills/seedance/SKILL.md .claude/skills/seedance/SKILL.md
 ```
 
-3. **Register the skill in your Claude Code settings**
-
-Create or edit `.claude/settings.local.json` in your project root:
-
-```json
-{
-  "permissions": {
-    "allow": [
-      "WebSearch"
-    ]
-  }
-}
-```
-
-> `WebSearch` permission is optional but recommended — it allows the skill to look up the latest Seedance platform updates if needed.
-
-4. **Verify installation**
+3. **Verify installation**
 
 Start Claude Code in your project directory:
 
